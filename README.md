@@ -1,5 +1,3 @@
-
-
 ### Hi there!
 I’m self-taught programmer, a developer skilled in C++ and Python. I’ve made tools like a shellcode loader, WhatsApp sender, APK crypter, Telegram bots, and Loot Botnet (for research).
 
@@ -24,7 +22,7 @@ I’m self-taught programmer, a developer skilled in C++ and Python. I’ve made
 	<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,php"/>
 	<br/>
     <br>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LOOTXSEC&langs_count=8&theme=react&layout=compact'>
+    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LOOTXSEC&&show_icons=true&theme=dark'>
 </div>
 
 ### Contact me:
@@ -36,5 +34,3 @@ I'm opened for suggestions! If you want partnership feel free to contact me.
 ---
 
 ```  > ⚠️ All projects are for educational purposes only - the author is not responsible for any malicious use!```
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LOOTXSEC&theme=dracula)](https://github.com/LOOTXSEC/)
