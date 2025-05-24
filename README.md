@@ -31,7 +31,7 @@ I’m self-taught programmer, a developer skilled in C++ and Python. I’ve made
 
 I'm opened for suggestions! If you want partnership feel free to contact me.
 
-- Telegram: <a href="https://t.me/LOOT_XSEC">`LOOT_XSEC`</a>
+- Telegram: <a href="https://t.me/codepulze">`LOOT_XSEC`</a>
 
 ---
 
